@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan</h1>
-<h3 align="center">Hello! This is Sivaramakrishnan and I'm a MERN stack developer. I have over a year's experience in designing, implementing and managing web applications. My skills focus on developing clean interfaces with elegant code.</h3>
+<h3 align="center">Hello! I am  Sivaramakrishnan and I'm a MERN stack developer. I have over a year's experience in designing, implementing and managing web applications. My skills focus on developing clean interfaces with elegant code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva20021&label=Profile%20views&color=0e75b6&style=flat" alt="siva20021" /> </p>
 
