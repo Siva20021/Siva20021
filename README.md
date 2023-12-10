@@ -21,24 +21,13 @@
  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://repository-images.githubusercontent.com/252413723/e6f28180-8882-11ea-9e76-78d72dfa2af0"></code>
-<code><img height="50" src="http://www.w3.org/2000/svg"></code>
-<code><img height="50" src="https://laravelnews.imgix.net/images/tailwindcss-1633184775.jpg?ixlib=php-3.3.1"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"></code>
-<code><img height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UajhAYy4--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emsbo1jy8jh91vvohwrj.jpeg"></code>
-<code><img height="50" src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0"></code>
+<div align="center">
+  <h2>Languages, Frameworks & Tools</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,sass,tailwind,bootstrap,js,ts,react,androidstudio,cpp,dart,dotnet,electron,express,flutter,solidity nextjs,redux,c,py,fastapi,mongodb,mysql,postgresql,postman,netlify,vercel,figma,vscode,mui," alt="skills logos" />
+  <br /> 
+<!--   <h2>Actively Learning</h3>
+  <img src="https://skillicons.dev/icons?i=linux,githubactions,aws,gcp" alt="skills actively learning logos"> -->
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva20021&show_icons=true&locale=en&layout=compact" alt="siva20021" /></p>
 
