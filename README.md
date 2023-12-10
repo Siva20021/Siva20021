@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **C,C++ and Python**
+- 💬 Ask me about **C++,Javascript and Python**
 
 <h3 align="left">Connect with me:</h3>
 &nbsp;&nbsp;&nbsp;
