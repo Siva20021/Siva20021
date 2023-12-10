@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **C,C++ and Python**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+&nbsp;&nbsp;&nbsp;
 <p align="center">
 <a href="https://twitter.com/muthusivaramak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muthusivaramak1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sivaramakrishnan-m-0b71061bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sivaramakrishnan-m-0b71061bb/" height="30" width="40" /></a>
@@ -20,7 +21,9 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/sm2482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sm2482" height="30" width="40" /></a>
  
 </p>
+&nbsp;&nbsp;&nbsp;
 <h3 align="left">Languages Frameworks & Tools </h3>
+&nbsp;&nbsp;&nbsp;
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,sass,tailwind,bootstrap,js,ts,react,androidstudio,cpp,dart,dotnet,electron,express,flutter,solidity,nextjs,redux,c,py,fastapi,mongodb,mysql,postgresql,postman,netlify,vercel,figma,vscode,mui," alt="skills logos" />
