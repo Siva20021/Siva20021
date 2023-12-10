@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/sm2482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sm2482" height="30" width="40" /></a>
  
 </p>
-<h3 align="center">Languages Frameworks & Tools </h3>
+<h3 align="left">Languages Frameworks & Tools </h3>
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,sass,tailwind,bootstrap,js,ts,react,androidstudio,cpp,dart,dotnet,electron,express,flutter,solidity,nextjs,redux,c,py,fastapi,mongodb,mysql,postgresql,postman,netlify,vercel,figma,vscode,mui," alt="skills logos" />
