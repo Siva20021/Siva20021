@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan</h1>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 <h2 align="left">
+  <i>
+    
   Hello! I am  Sivaramakrishnan and I'm a MERN stack developer.I have over a year's experience in designing, implementing and managing web applications. My skills focus on developing clean interfaces with elegant code. 
+  </i>
 
 </h2> 
 
